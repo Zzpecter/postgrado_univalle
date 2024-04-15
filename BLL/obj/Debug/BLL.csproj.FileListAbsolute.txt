@@ -1,0 +1,23 @@
+F:\Visual 2012 Projects\PostgradoUnivalle\BLL\bin\Debug\BLL.dll
+F:\Visual 2012 Projects\PostgradoUnivalle\BLL\bin\Debug\BLL.pdb
+F:\Visual 2012 Projects\PostgradoUnivalle\BLL\bin\Debug\DAL.dll
+F:\Visual 2012 Projects\PostgradoUnivalle\BLL\bin\Debug\DAL.pdb
+F:\Visual 2012 Projects\PostgradoUnivalle\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Visual 2012 Projects\PostgradoUnivalle\BLL\obj\Debug\BLL.dll
+F:\Visual 2012 Projects\PostgradoUnivalle\BLL\obj\Debug\BLL.pdb
+F:\VS Projects\PostgradoUnivalle\BLL\bin\Debug\BLL.dll
+F:\VS Projects\PostgradoUnivalle\BLL\bin\Debug\BLL.pdb
+F:\VS Projects\PostgradoUnivalle\BLL\bin\Debug\DAL.dll
+F:\VS Projects\PostgradoUnivalle\BLL\bin\Debug\DAL.pdb
+F:\VS Projects\PostgradoUnivalle\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\VS Projects\PostgradoUnivalle\BLL\obj\Debug\BLL.dll
+F:\VS Projects\PostgradoUnivalle\BLL\obj\Debug\BLL.pdb
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\BLL\bin\Debug\BLL.dll
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\BLL\bin\Debug\BLL.pdb
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\BLL\bin\Debug\DAL.dll
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\BLL\bin\Debug\DAL.pdb
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\BLL\obj\Debug\BLL.csproj.CopyComplete
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\BLL\obj\Debug\BLL.dll
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\BLL\obj\Debug\BLL.pdb

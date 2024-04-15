@@ -1,0 +1,11 @@
+NOMBRE: Bertha Bussey
+POSTGRADO: Diplomado en Derecho Tributario
+FECHA: 25/06/2014
+
+
+
+Nota      Materia
+60,00    Derecho Constitucional
+98,00    Derecho Tributario Formal O Administrativo
+75,00    Tributos Municipales
+70,00    Tributos Nacionales

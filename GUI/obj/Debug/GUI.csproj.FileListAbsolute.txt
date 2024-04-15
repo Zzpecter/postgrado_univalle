@@ -1,0 +1,151 @@
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmAutenticacion.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\bin\Debug\GUI.exe
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\bin\Debug\GUI.pdb
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\bin\Debug\BLL.dll
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\bin\Debug\DAL.dll
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\bin\Debug\BLL.pdb
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\bin\Debug\DAL.pdb
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.exe
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.pdb
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmPerfil.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmUsuarios.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmMenuPrincipal.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmBitacora.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmInscripcion.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.dgvBase.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmAgregarMateria.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmAgregarPostgrado.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmPostgrados.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmAgregarRequisito.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmHorarios.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmDocentes.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmEspecialidades.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmAlumnos.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmTramites.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmInscribirAntiguos.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmNotas.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmSeleccionPostgrado.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmAgenda.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmInteresados.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmABMEspecialidad.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmABMTelefono.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmABMTipoAula.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmTelefonos.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmAsignarDocente.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmOfertas.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmABMAula.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmEditarPostgrados.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmNotificaciones.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmPasswordReset.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmPermisos.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmABMEspecialidades.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmDocenteSeleccionar.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmABMMateria.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\bin\Debug\GUI.exe.config
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmReportes.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\RdlCompile.cache
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\RdlCompile.compiled
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmConexion.resources
+F:\Visual 2012 Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmABMEgresados.resources
+H:\Multimedia\Univalle Back\Proyectos VS\2012\PostgradoUnivalle\GUI\bin\Debug\GUI.exe.config
+H:\Multimedia\Univalle Back\Proyectos VS\2012\PostgradoUnivalle\GUI\obj\Debug\GUI.exe
+H:\Multimedia\Univalle Back\Proyectos VS\2012\PostgradoUnivalle\GUI\obj\Debug\GUI.pdb
+F:\VS Projects\PostgradoUnivalle\GUI\bin\Debug\GUI.exe.config
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.exe
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.pdb
+F:\VS Projects\PostgradoUnivalle\GUI\bin\Debug\GUI.exe
+F:\VS Projects\PostgradoUnivalle\GUI\bin\Debug\GUI.pdb
+F:\VS Projects\PostgradoUnivalle\GUI\bin\Debug\BLL.dll
+F:\VS Projects\PostgradoUnivalle\GUI\bin\Debug\DAL.dll
+F:\VS Projects\PostgradoUnivalle\GUI\bin\Debug\BLL.pdb
+F:\VS Projects\PostgradoUnivalle\GUI\bin\Debug\DAL.pdb
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.dgvBase.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmABMAula.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmABMEgresados.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmABMEspecialidad.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmABMEspecialidades.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmABMMateria.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmABMTelefono.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmABMTipoAula.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmAgenda.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmAgregarMateria.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmAgregarPostgrado.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmAgregarRequisito.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmAlumnos.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmAsignarDocente.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmAutenticacion.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmBitacora.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmConexion.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmDocentes.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmDocenteSeleccionar.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmEditarPostgrados.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmEspecialidades.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmHorarios.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmInscribirAntiguos.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmInscripcion.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmInteresados.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmMenuPrincipal.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmNotas.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmNotificaciones.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmOfertas.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmPasswordReset.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmPerfil.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmPermisos.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmPostgrados.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmReportes.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmSeleccionPostgrado.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmTelefonos.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmTramites.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmUsuarios.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\RdlCompile.cache
+F:\VS Projects\PostgradoUnivalle\GUI\obj\Debug\RdlCompile.compiled
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.dgvBase.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmABMAula.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmABMEgresados.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmABMEspecialidad.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmABMEspecialidades.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmABMMateria.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmABMTelefono.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmABMTipoAula.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmAgenda.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmAgregarMateria.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmAgregarPostgrado.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmAgregarRequisito.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmAlumnos.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmAsignarDocente.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmAutenticacion.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmBitacora.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmConexion.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmDocentes.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmDocenteSeleccionar.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmEditarPostgrados.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmEspecialidades.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmHorarios.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmInscribirAntiguos.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmInscripcion.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmInteresados.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmMenuPrincipal.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmNotas.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmNotificaciones.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmOfertas.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmPasswordReset.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmPerfil.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmPermisos.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmPostgrados.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmReportes.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmSeleccionPostgrado.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmTelefonos.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmTramites.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.FrmUsuarios.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.Properties.Resources.resources
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.exe
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\GUI\obj\Debug\GUI.pdb

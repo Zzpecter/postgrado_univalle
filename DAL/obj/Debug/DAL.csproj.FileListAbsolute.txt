@@ -1,0 +1,16 @@
+F:\Visual 2012 Projects\PostgradoUnivalle\DAL\bin\Debug\DAL.dll
+F:\Visual 2012 Projects\PostgradoUnivalle\DAL\bin\Debug\DAL.pdb
+F:\Visual 2012 Projects\PostgradoUnivalle\DAL\obj\Debug\DAL.dll
+F:\Visual 2012 Projects\PostgradoUnivalle\DAL\obj\Debug\DAL.pdb
+F:\Visual 2012 Projects\PostgradoUnivalle\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\VS Projects\PostgradoUnivalle\DAL\bin\Debug\DAL.dll
+F:\VS Projects\PostgradoUnivalle\DAL\bin\Debug\DAL.pdb
+F:\VS Projects\PostgradoUnivalle\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\VS Projects\PostgradoUnivalle\DAL\obj\Debug\DAL.dll
+F:\VS Projects\PostgradoUnivalle\DAL\obj\Debug\DAL.pdb
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\DAL\bin\Debug\DAL.dll
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\DAL\bin\Debug\DAL.pdb
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\DAL\obj\Debug\DAL.dll
+H:\Multimedia\Documentos\VS Projects\PostgradoUnivalle\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A449E381-7873-4F6F-8B08-ED3091AF1092}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BLL</RootNamespace>
+    <AssemblyName>BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Agenda.cs" />
+    <Compile Include="Alumno.cs" />
+    <Compile Include="AlumnoPostgrado.cs" />
+    <Compile Include="Area.cs" />
+    <Compile Include="AreaEspecialidad.cs" />
+    <Compile Include="AreaInteresado.cs" />
+    <Compile Include="AreaPostgrado.cs" />
+    <Compile Include="Aula.cs" />
+    <Compile Include="Autenticacion.cs" />
+    <Compile Include="Bitacora.cs" />
+    <Compile Include="CadenaConexion.cs" />
+    <Compile Include="Controladora.cs" />
+    <Compile Include="CtrlDocente.cs" />
+    <Compile Include="CtrlInscripcion.cs" />
+    <Compile Include="CtrlPerfil.cs" />
+    <Compile Include="DetalleMateria.cs" />
+    <Compile Include="Docente.cs" />
+    <Compile Include="DocenteEspecialidad.cs" />
+    <Compile Include="Documento.cs" />
+    <Compile Include="Egresado.cs" />
+    <Compile Include="Especialidad.cs" />
+    <Compile Include="EstadoTramite.cs" />
+    <Compile Include="Interesado.cs" />
+    <Compile Include="MateriaPostgrado.cs" />
+    <Compile Include="Materias.cs" />
+    <Compile Include="Mensajes.cs" />
+    <Compile Include="Notas.cs" />
+    <Compile Include="Notificacion.cs" />
+    <Compile Include="Permisos.cs" />
+    <Compile Include="Persona.cs" />
+    <Compile Include="Postgrado.cs" />
+    <Compile Include="PostgradoRequisito.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reportes.cs" />
+    <Compile Include="Requisitos.cs" />
+    <Compile Include="SesionActual.cs" />
+    <Compile Include="Telefono.cs" />
+    <Compile Include="Temporal.cs" />
+    <Compile Include="TipoAula.cs" />
+    <Compile Include="TipoTelefono.cs" />
+    <Compile Include="Tramite.cs" />
+    <Compile Include="Usuario.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{f7de3209-9044-407f-9937-a34777b91d9f}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
